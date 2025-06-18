@@ -53,7 +53,7 @@ npm install
 npm run dev
 ```
 
-This will start the Vite development server, typically at `http://localhost:5173`
+This will start the Vite development server, typically at `http://localhost:3000`
 
 **Build for Production:**
 
